@@ -16,5 +16,6 @@ class MainClass {
     int x = MenorValor(10, 3, 4);
     Console.WriteLine(x);
     Console.WriteLine(MenorValor(1, 3));
+    //*try parse, out e ref* ver "void"
   }
 }
