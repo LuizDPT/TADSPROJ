@@ -21,9 +21,9 @@ class MainClass {
     
   }
   public static void Main (string[] args) {
-    int a = 5;
-    int b = 1;
-    int c = 7;
+    ref int a = 5;
+    ref int b = 1;
+    ref int c = 7;
     Ordenar(a, b , c);
     Console.WriteLine("teste");
   }
